@@ -3,8 +3,8 @@ main:
   - title: "About Me"
     url: "/#about-me"
 
-  - title: "News"
-    url: "./#新闻"
+  - title: "新闻动态"
+    url: "./#新闻动态"
 
   - title: "代表性成果"
     url: "#-代表性成果"

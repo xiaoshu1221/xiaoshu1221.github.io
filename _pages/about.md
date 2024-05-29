@@ -34,7 +34,7 @@ Currently, my research has centered on:
 📮: I am always looking for related colaboration. If you are interested to chat with me, feel free to drop me an <a href="mailto:wuyalun1@bjtu.edu.cn" target="_blank">email</a>.
 
 
-# 🔥 News
+# 🔥 新闻动态
 - *2023.12:* Our class won the "Beijing Advanced Class Award". 🎉🎉🎉
 - *2023.12:* Our class won the "Beijing Jiaotong University Advanced Class of Graduate Students Award". 🎉🎉🎉
 - *2023.12:* I received the "Enterprise Scholarship" from Beijing Jiaotong University. 🎉
@@ -77,7 +77,7 @@ Currently, my research has centered on:
 
 # 🎖 荣誉与获奖
 
-**团体荣誉与获奖：**
+**团体奖项：**
 
 - *2023.12:* 服务班级获评北京市“先进班集体”荣誉称号.
 - *2023.12:* 服务班级获评北京交通大学“研究生先进班集体”荣誉称号.
@@ -87,7 +87,7 @@ Currently, my research has centered on:
 - *2021.08:* 荣获第29届DEFCON自动驾驶CTF全球挑战赛团体亚军. (排名: 1/10)
 - *2022.01:* 荣获国家重点活动安全测试活动团体一等奖.
 
-**个人荣誉与获奖：**
+**个人奖项：**
 
 - *2023.12:* 荣获北京交通大学“企业专项奖学金”.
 - *2023.12:* 荣获北京交通大学“社会工作优秀奖学金”.
