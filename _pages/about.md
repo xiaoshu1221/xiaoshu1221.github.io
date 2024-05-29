@@ -69,29 +69,52 @@ Currently, my research has centered on:
 
 # 🔍 Patents
 
-- **Yalun Wu**, Xiaoshu Cui, Yuanwan Chen, Qiong Li, Yanfeng Gu, Yingqi Cai, Zhen Han, Jiqiang Liu, Endong Tong, Wenjia Niu. A text-driven data augmentation method. Chinese patent, 2024.
-- Pengna Liu, Ziyan Qiao, **Yalun Wu**, Yuanwan Chen, Xiaoshu Cui, Yanfeng Gu, Jingqi Jia, Qiong Li, Endong Tong, Wenjia Niu. A rapid region reuse method for multi-point asynchronous attacks. Chinese patent, 2024.
-- Ziyan Qiao, Yuanwan Chen, Pengna Liu, Yanfeng Gu, Xiaoshu Cui, **Yalun Wu**, Qiong Li, Endong Tong, Wenjia Niu. A multi-agent cooperative reinforcement learning method based on bidirectional model transfer. Chinese patent, 2024.
-- Dianjing Cheng, Yunzhe Tian, Xiyi Lu, Kang Chen, Dongyue Xu, **Yalun Wu**, Xingyu Wu, Yike Li, Qiong Li, Endong Tong, Wenjia Niu, Jiqiang Liu. A method and apparatus for constructing a multi-task classifier combining pre-training and supervised fine-tuning. Chinese patent, 2024.
-- Kang Chen, Yunzhe Tian, Dongyue Xu, **Yalun Wu**, Xingyu Wu, Yike Li, Endong Tong, Wenjia Niu. A method for identifying modulation styles and technical systems of wireless signals. Chinese patent, 2023.
+- **吴亚伦**, 崔晓澍, 陈渊婉, 李琼, 古砚锋, 蔡英琪, 韩臻, 刘吉强, 童恩栋, 牛温佳. 一种基于文本驱动的数据增强方法. 中国专利, 2024. ZL202410218732.1.
+- 刘朋娜, 乔紫嫣, **吴亚伦**, 陈渊婉, 崔晓澍, 古砚锋, 贾敬淇, 李琼, 童恩栋, 牛温佳. 一种面向多点异步攻击的快速区域复用方法. 中国专利, 2024.
+- 乔紫嫣, 陈渊婉, 刘朋娜, 古砚锋, 崔晓澍, **吴亚伦**, 李琼, 童恩栋, 牛温佳. 一种双向模型迁移的多主体联合强化学习方法. 中国专利, 2024.
+- 程殿景, 田蕴哲, 卢西义, 陈康, 徐冬月, **吴亚伦**, 武兴宇, 李轶珂, 李琼, 童恩栋, 牛温佳, 刘吉强. 一种结合预训练和监督微调的多任务分类器构建方法. 中国专利, 2024.
+- 陈康, 田蕴哲, 徐冬月, **吴亚伦**, 武兴宇, 李轶珂, 童恩栋, 牛温佳. 一种对无线信号进行信号调制样式与技术体制识别方法. 中国专利, 2024. 
 
-# 🎖 Honors and Awards
+# 🎖 荣誉与获奖
 
-- *2023.12:* The Advanced Class Award of Beijing. (Team award)
-- *2023.12:* The Advanced Class of Graduate Students Award of Beijing Jiaotong University. (Team award)
-- *2023.12:* The Enterprise Scholarship of Beijing Jiaotong University .
-- *2023.12:* The Excellent Scholarship in Social Work of Beijing Jiaotong University.
-- *2023.12:* The Excellent Graduate Student Cadre of Beijing Jiaotong University.
-- *2022.12*: The Excellent Part-time Counselor of Beijing Jiaotong University.
-- 2022.08: The Global Runner-up🥈 in the DEFCON30 Autonomous Driving CTF Challenge. (Team award)
-- *2022.02:* A letter of appreciation from the National Major Network Security Test and Assessment Activity.  (Team award)
-- *2022.01:* The first price🏅 of the 2022 Beijing Winter Olympics Vulnerability Mining Competition.
-- 2021.08: The Global Runner-up🥈 in the DEFCON29 Autonomous Driving CTF Challenge.
+## 团体荣誉与获奖
+
+- *2023.12:* 服务班级获评北京市"先进班集体"荣誉称号.
+
+- *2023.12:* 服务班级获评北京交通大学"研究生先进班集体"荣誉称号.
+
+- *2023.10:* 作为北京交通大学群众代表参加中国残疾人联合会第八次全国代表大会开幕会，荣获中国残疾人联合会办公厅"感谢信".
+
+- *2022.08:* 荣获第30届DEFCON自动驾驶CTF全球挑战赛团体亚军. (排名: 3/9)
+
+- *2022.05:* 服务班级获评北京交通大学计算机与信息技术学院"青春绽放，梦由芯生"班级风采大赛二等奖.
+
+- *2021.08:* 荣获第29届DEFCON自动驾驶CTF全球挑战赛团体亚军. (排名: 1/10)
+
+- *2022.01:* 荣获国家重点活动安全测试活动团体一等奖.
+
+  <!--
+
+- *2021.11:* 协助我J某部创新打造电磁频谱管控领域首个知识图谱应用系统，荣获我J某部“感谢信”；
+
+- *2021.06:* 参与我J某部数据项目建设, 荣获我J某部数据项目建设"系统应用证明". (排名:)
+
+  -->
+
+## 个人荣誉与获奖
+
+- *2023.12:* 荣获北京交通大学"企业专项奖学金".
+- *2023.12:* 荣获北京交通大学"社会工作优秀奖学金".
+- *2023.12:* 荣获北京交通大学"优秀研究生干部".
+- *2023.07:* 荣获中国网络空间安全人才教育联盟"A级安全众测专业人员认证".
+- *2023.01:* 荣获阿里云开发者社区乘风者计划"专家博主"荣誉称号.
+- *2022.12*: 获评北京交通大学"优秀兼职辅导员"荣誉称号.
+- *2022.11:* 荣获北京交通大学研究生骨干培训班"结业证书".
 
 # 📖 教育经历
-- *2022.09 - Now:* Ph.D., School of Computer and Information Technology,, Beijing Jiaotong University
-- *2020.09 - 2022.06:* M.S., School of Computer and Information Technology , Beijing Jiaotong University
-- *2013.09 - 2017.06:* B.S., School of Information Science, Qingdao Agricultural University
+- *2022.09 - 至今:* 博士, 北京交通大学, 计算机科学与技术学院/计算机与信息技术学院.
+- *2020.09 - 2022.06:* 硕士, 北京交通大学, 计算机与信息技术学院.
+- *2013.09 - 2017.06:* 本科, 青岛农业大学, 理学与信息科学学院.
 
 # ⚙️ 项目经历
 
@@ -99,5 +122,4 @@ Currently, my research has centered on:
 - *2020 - Now:* National Natural Science Foundation "General Program" Project: Multi-Agent Collaborative Defense Research against Data Poisoning Attacks in Intelligent Traffic Signal Systems.
 - *2020-2023:* National Key Research and Development Program Topic: Theory of Trustworthy Construction and Collaborative Decision-Making in Multi-Agent Systems.
 - *2020-2023:* National Key Research and Development Program Project: Trustworthy Mechanisms and Key Technologies for Urban Intelligent Systems.
-
 
