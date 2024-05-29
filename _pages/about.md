@@ -88,12 +88,12 @@ Currently, my research has centered on:
 - *2022.01:* The first price🏅 of the 2022 Beijing Winter Olympics Vulnerability Mining Competition.
 - 2021.08: The Global Runner-up🥈 in the DEFCON29 Autonomous Driving CTF Challenge.
 
-# 📖 Educations
+# 📖 教育经历
 - *2022.09 - Now:* Ph.D., School of Computer and Information Technology,, Beijing Jiaotong University
 - *2020.09 - 2022.06:* M.S., School of Computer and Information Technology , Beijing Jiaotong University
 - *2013.09 - 2017.06:* B.S., School of Information Science, Qingdao Agricultural University
 
-# ⚙️ Projects
+# ⚙️ 项目经历
 
 - *2023 - Now:* Natural Science Horizontal Project: Semi-Physical Simulation of Autonomous Driving Based on Digital Twins.
 - *2020 - Now:* National Natural Science Foundation "General Program" Project: Multi-Agent Collaborative Defense Research against Data Poisoning Attacks in Intelligent Traffic Signal Systems.
@@ -101,14 +101,3 @@ Currently, my research has centered on:
 - *2020-2023:* National Key Research and Development Program Project: Trustworthy Mechanisms and Key Technologies for Urban Intelligent Systems.
 
 
-
-<!--
-
-# 💬 Invited Talks
-
-- *2021.11*, 
-
-# 💻 Internships
-
-- *2019.05 - 2020.02*, [Lorem](https://github.com/), China.
--->
