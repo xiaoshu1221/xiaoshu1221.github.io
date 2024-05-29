@@ -16,10 +16,10 @@ main:
     url: "/#-honors-and-awards"
 
   - title: "教育经历"
-    url: "~/#-教育经历"
+    url: "./#-教育经历"
 
   - title: "项目经历"
-    url: "~/#-项目经历"
+    url: "./#-项目经历"
 
   # - title: "Invited Talks"
   #   url: "/#-invited-talks"
