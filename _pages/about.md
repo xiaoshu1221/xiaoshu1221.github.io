@@ -47,7 +47,7 @@ Currently, my research has centered on:
 - *2022.01:* Our team won the first price🏅 in the 2022 Beijing Winter Olympics Vulnerability Discovery Competition. 🎉🎉🎉 [[link](https://scit.bjtu.edu.cn/cms/item/4906.html)]
 - 2021.08: Our team won the Global Runner-up🥈 in the DEFCON29 Autonomous Driving CTF Challenge. Checkout the news from some of the winning teams: [[Our Team@BJTU](http://scit.bjtu.edu.cn/mobile/item/4790.html)], [[Cacti@UB](https://engineering.buffalo.edu/computer-science-engineering/news-and-events/news.host.html/content/shared/engineering/home/articles/news-articles/2021/team-cacti-places-5th-at-baidu-autodriving-capture-the-flag-comp.detail.html)], [[Redbud@THU](https://netsec.ccert.edu.cn/eng/hacking/2021-08-06-autodrive-defcon)]. Congratulations! 🎉🎉🎉 
 
-# 📝 Publications
+# 📝 代表性成果
 
 1. **Yalun Wu**, Yingxiao Xiang, Endong Tong, Yuqi Ye, Zhibo Cui, Yunzhe Tian, Lejun Zhang, Jiqiang Liu, Zhen Han. Wenjia Niu. Improving the Robustness of Pedestrian Detection in Autonomous Driving with Generative Data Augmentation. IEEE Network, 2024 (early access). <font color="#E56701"><b>(JCR Q1/中科院二区, IF: 9.3)</b></font> 
 2. **Yalun Wu**, Yanfeng Gu, Yuanwan Chen, Xiaoshu Cui, Qiong Li, Yingxiao Xiang, Endong Tong, Jianhua Li, Zhen Han, Jiqiang Liu. Camouflage Backdoor Attack against Pedestrian Detection. Applied Sciences, 2023, 13(23):12752. <font color="#E56701"><b>(JCR Q2/中科院四区)</b></font> 
@@ -67,7 +67,7 @@ Currently, my research has centered on:
 16. Yike Li, Yunzhe Tian, Endong Tong, Wenjia Niu, Yingxiao Xiang, Tong Chen, **Yalun Wu** and Jiqiang Liu. Curricular Robust Reinforcement Learning via GAN-based Perturbation through Continuously Scheduled Task. Chinese Conference on Trusted Computing and Information Security (CTCIS), 2021.
 17. Yingxiao Xiang, Tong Chen, Yike Li, Yunzhe Tian, Wenjia Niu, Endong Tong, Jiqiang Liu, Bowei Jia, **Yalun Wu**, Xinyu Huang. Predicting Congestion Attack of Variable Spoofing Frequency for Reliable Traffic Signal System. International Conference on Security and Privacy in New Computing Environments (EAI-SPNCE), 2021.
 
-# 🔍 Patents
+# 🔍 发明专利
 
 - **吴亚伦**, 崔晓澍, 陈渊婉, 李琼, 古砚锋, 蔡英琪, 韩臻, 刘吉强, 童恩栋, 牛温佳. 一种基于文本驱动的数据增强方法. 中国专利, 2024. ZL202410218732.1.
 - 刘朋娜, 乔紫嫣, **吴亚伦**, 陈渊婉, 崔晓澍, 古砚锋, 贾敬淇, 李琼, 童恩栋, 牛温佳. 一种面向多点异步攻击的快速区域复用方法. 中国专利, 2024.
@@ -77,7 +77,7 @@ Currently, my research has centered on:
 
 # 🎖 荣誉与获奖
 
-## 团体荣誉与获奖
+**团体荣誉与获奖：**
 
 - *2023.12:* 服务班级获评北京市"先进班集体"荣誉称号.
 - *2023.12:* 服务班级获评北京交通大学"研究生先进班集体"荣誉称号.
@@ -87,11 +87,11 @@ Currently, my research has centered on:
 - *2021.08:* 荣获第29届DEFCON自动驾驶CTF全球挑战赛团体亚军. (排名: 1/10)
 - *2022.01:* 荣获国家重点活动安全测试活动团体一等奖.
 
-## 个人荣誉与获奖
+**个人荣誉与获奖：**
 
 - *2023.12:* 荣获北京交通大学"企业专项奖学金".
 - *2023.12:* 荣获北京交通大学"社会工作优秀奖学金".
-- *2023.12:* 荣获北京交通大学"优秀研究生干部".
+- *2023.12:* 荣获北京交通大学“优秀研究生干部”.
 - *2023.07:* 荣获中国网络空间安全人才教育联盟"A级安全众测专业人员认证".
 - *2023.01:* 荣获阿里云开发者社区乘风者计划"专家博主"荣誉称号.
 - *2022.12*: 获评北京交通大学"优秀兼职辅导员"荣誉称号.

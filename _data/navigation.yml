@@ -4,16 +4,16 @@ main:
     url: "/#about-me"
 
   - title: "News"
-    url: "/#-news"
+    url: "./#新闻"
 
-  - title: "Publications"
-    url: "/#-publications"
+  - title: "代表性成果"
+    url: "/#-Publications"
 
-  - title: "Patents"
-    url: "/#-patents"
+  - title: "发明专利"
+    url: "./#-发明专利"
 
-  - title: "Honors and Awards"
-    url: "/#-honors-and-awards"
+  - title: "荣誉与获奖"
+    url: "./#-荣誉与获奖"
 
   - title: "教育经历"
     url: "./#-教育经历"
