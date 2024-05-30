@@ -1,7 +1,7 @@
 # main links links
 main:
   - title: "关于我"
-    url: "##about-me"
+    url: "#About-Me"
 
   - title: "新闻动态"
     url: "#News"
