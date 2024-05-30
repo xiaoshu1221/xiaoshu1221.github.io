@@ -104,8 +104,9 @@ Currently, my research has centered on:
 
 # ⚙️ 项目经历
 
-- *2023 - Now:* Natural Science Horizontal Project: Semi-Physical Simulation of Autonomous Driving Based on Digital Twins.
-- *2020 - Now:* National Natural Science Foundation "General Program" Project: Multi-Agent Collaborative Defense Research against Data Poisoning Attacks in Intelligent Traffic Signal Systems.
-- *2020-2023:* National Key Research and Development Program Topic: Theory of Trustworthy Construction and Collaborative Decision-Making in Multi-Agent Systems.
-- *2020-2023:* National Key Research and Development Program Project: Trustworthy Mechanisms and Key Technologies for Urban Intelligent Systems.
-
+- *2023 - 至今:* 中央引导地方资金项目, 基于边缘计算的智能交通拥堵治理系统研发, 15万.
+- *2023 - 至今:* 自然科学横向项目(石家庄“揭榜挂帅”项目), 基于数字孪生的自动驾驶半实物仿真, 100万.
+- *2022 - 2023:* 红果园横向项目, OMS功能及算法研发, 50万.
+- *2020 - 2023:* 国家自然科学基金“面上”项目, 智能交通信号灯系统中数据投毒攻击的多主体协同防护研究, 60万.
+- *2020 - 2023:* 国家重点研发计划-项目, 城市智能系统可信任机理与关键技术.
+- *2022 - 2022:* 红果园省部级“企事业”项目, 某领域标准化问题预研究项目.
