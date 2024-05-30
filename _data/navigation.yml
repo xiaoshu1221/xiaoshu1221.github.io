@@ -4,22 +4,22 @@ main:
     url: "##about-me"
 
   - title: "新闻动态"
-    url: "#-新闻动态"
+    url: "#News"
 
   - title: "代表性成果"
-    url: "#publications"
+    url: "#Publications"
 
   - title: "发明专利"
-    url: "#-发明专利"
+    url: "#Patents"
 
   - title: "荣誉与获奖"
-    url: "#-荣誉与获奖"
+    url: "#Hornor-and-Reward"
 
   - title: "教育经历"
-    url: "#-教育经历"
+    url: "#Education"
 
   - title: "项目经历"
-    url: "#-项目经历"
+    url: "#Project"
 
   - title: "英文简历(English CV)"
     url: "https://wuyalun.cn/"

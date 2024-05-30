@@ -33,7 +33,7 @@ Currently, my research has centered on:
 
 📮: I am always looking for related colaboration. If you are interested to chat with me, feel free to drop me an <a href="mailto:wuyalun1@bjtu.edu.cn" target="_blank">email</a>.
 
-
+<span class='anchor' id='News'></span>
 # 🔥 新闻动态
 - *2023.12:* Our class won the "Beijing Advanced Class Award". 🎉🎉🎉
 - *2023.12:* Our class won the "Beijing Jiaotong University Advanced Class of Graduate Students Award". 🎉🎉🎉
@@ -47,7 +47,7 @@ Currently, my research has centered on:
 - *2022.01:* Our team won the first price🏅 in the 2022 Beijing Winter Olympics Vulnerability Discovery Competition. 🎉🎉🎉 [[link](https://scit.bjtu.edu.cn/cms/item/4906.html)]
 - 2021.08: Our team won the Global Runner-up🥈 in the DEFCON29 Autonomous Driving CTF Challenge. Checkout the news from some of the winning teams: [[Our Team@BJTU](http://scit.bjtu.edu.cn/mobile/item/4790.html)], [[Cacti@UB](https://engineering.buffalo.edu/computer-science-engineering/news-and-events/news.host.html/content/shared/engineering/home/articles/news-articles/2021/team-cacti-places-5th-at-baidu-autodriving-capture-the-flag-comp.detail.html)], [[Redbud@THU](https://netsec.ccert.edu.cn/eng/hacking/2021-08-06-autodrive-defcon)]. Congratulations! 🎉🎉🎉 
 
-<span class='anchor' id='publications'></span>
+<span class='anchor' id='Publications'></span>
 # 📝 代表性成果
 
 1. **Yalun Wu**, Yingxiao Xiang, Endong Tong, Yuqi Ye, Zhibo Cui, Yunzhe Tian, Lejun Zhang, Jiqiang Liu, Zhen Han. Wenjia Niu. Improving the Robustness of Pedestrian Detection in Autonomous Driving with Generative Data Augmentation. IEEE Network, 2024 (early access). <font color="#E56701"><b>(JCR Q1/中科院二区, IF: 9.3)</b></font> 
@@ -68,6 +68,7 @@ Currently, my research has centered on:
 16. Yike Li, Yunzhe Tian, Endong Tong, Wenjia Niu, Yingxiao Xiang, Tong Chen, **Yalun Wu** and Jiqiang Liu. Curricular Robust Reinforcement Learning via GAN-based Perturbation through Continuously Scheduled Task. Chinese Conference on Trusted Computing and Information Security (CTCIS), 2021.
 17. Yingxiao Xiang, Tong Chen, Yike Li, Yunzhe Tian, Wenjia Niu, Endong Tong, Jiqiang Liu, Bowei Jia, **Yalun Wu**, Xinyu Huang. Predicting Congestion Attack of Variable Spoofing Frequency for Reliable Traffic Signal System. International Conference on Security and Privacy in New Computing Environments (EAI-SPNCE), 2021.
 
+<span class='anchor' id='Patents'></span>
 # 🔍 发明专利
 
 - **吴亚伦**, 崔晓澍, 陈渊婉, 李琼, 古砚锋, 蔡英琪, 韩臻, 刘吉强, 童恩栋, 牛温佳. 一种基于文本驱动的数据增强方法. 中国专利, 2024. ZL202410218732.1.
@@ -76,10 +77,9 @@ Currently, my research has centered on:
 - 程殿景, 田蕴哲, 卢西义, 陈康, 徐冬月, **吴亚伦**, 武兴宇, 李轶珂, 李琼, 童恩栋, 牛温佳, 刘吉强. 一种结合预训练和监督微调的多任务分类器构建方法. 中国专利, 2024. ZL2024102243853.
 - 陈康, 田蕴哲, 徐冬月, **吴亚伦**, 武兴宇, 李轶珂, 童恩栋, 牛温佳. 一种对无线信号进行信号调制样式与技术体制识别方法. 中国专利, 2024. CN202311198519.0
 
+<span class='anchor' id='Honor-and-Reward'></span>
 # 🎖 荣誉与获奖
-
 **团体奖项：**
-
 - *2023.12:* 服务班级获评北京市“先进班集体”荣誉称号.
 - *2023.12:* 服务班级获评北京交通大学“研究生先进班集体”荣誉称号.
 - *2023.10:* 作为北京交通大学群众代表参加中国残疾人联合会第八次全国代表大会开幕会，荣获中国残疾人联合会办公厅"感谢信".
@@ -89,7 +89,6 @@ Currently, my research has centered on:
 - *2022.01:* 荣获国家重点活动安全测试活动团体一等奖.
 
 **个人奖项：**
-
 - *2023.12:* 荣获北京交通大学“企业专项奖学金”.
 - *2023.12:* 荣获北京交通大学“社会工作优秀奖学金”.
 - *2023.12:* 荣获北京交通大学“优秀研究生干部”.
@@ -98,13 +97,14 @@ Currently, my research has centered on:
 - *2022.12*: 获评北京交通大学“优秀兼职辅导员”荣誉称号.
 - *2022.11:* 荣获北京交通大学研究生骨干培训班“结业证书”.
 
+<span class='anchor' id='Education'></span>
 # 📖 教育经历
 - *2022.09 - 至今:* 博士, 北京交通大学, 计算机科学与技术学院/计算机与信息技术学院.
 - *2020.09 - 2022.06:* 硕士, 北京交通大学, 计算机与信息技术学院.
 - *2013.09 - 2017.06:* 本科, 青岛农业大学, 理学与信息科学学院.
 
+<span class='anchor' id='Project'></span>
 # ⚙️ 项目经历
-
 - *2023 - 至今:* 中央引导地方资金项目, 基于边缘计算的智能交通拥堵治理系统研发, 15万.
 - *2023 - 至今:* 自然科学横向项目(石家庄“揭榜挂帅”项目), 基于数字孪生的自动驾驶半实物仿真, 100万.
 - *2022 - 2023:* 红果园横向项目, OMS功能及算法研发, 50万.
