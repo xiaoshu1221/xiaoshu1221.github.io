@@ -47,6 +47,7 @@ Currently, my research has centered on:
 - *2022.01:* Our team won the first price🏅 in the 2022 Beijing Winter Olympics Vulnerability Discovery Competition. 🎉🎉🎉 [[link](https://scit.bjtu.edu.cn/cms/item/4906.html)]
 - 2021.08: Our team won the Global Runner-up🥈 in the DEFCON29 Autonomous Driving CTF Challenge. Checkout the news from some of the winning teams: [[Our Team@BJTU](http://scit.bjtu.edu.cn/mobile/item/4790.html)], [[Cacti@UB](https://engineering.buffalo.edu/computer-science-engineering/news-and-events/news.host.html/content/shared/engineering/home/articles/news-articles/2021/team-cacti-places-5th-at-baidu-autodriving-capture-the-flag-comp.detail.html)], [[Redbud@THU](https://netsec.ccert.edu.cn/eng/hacking/2021-08-06-autodrive-defcon)]. Congratulations! 🎉🎉🎉 
 
+<span class='anchor' id='publications'></span>
 # 📝 代表性成果
 
 1. **Yalun Wu**, Yingxiao Xiang, Endong Tong, Yuqi Ye, Zhibo Cui, Yunzhe Tian, Lejun Zhang, Jiqiang Liu, Zhen Han. Wenjia Niu. Improving the Robustness of Pedestrian Detection in Autonomous Driving with Generative Data Augmentation. IEEE Network, 2024 (early access). <font color="#E56701"><b>(JCR Q1/中科院二区, IF: 9.3)</b></font> 
