@@ -35,9 +35,12 @@ Currently, my research has centered on:
 
 <span class='anchor' id='News'></span>
 # 🔥 新闻动态
-- *2023.12:* Our class won the "Beijing Advanced Class Award". 🎉🎉🎉
-- *2023.12:* Our class won the "Beijing Jiaotong University Advanced Class of Graduate Students Award". 🎉🎉🎉
-- *2023.12:* I received the "Enterprise Scholarship" from Beijing Jiaotong University. 🎉
+- *2024.05:* 祝贺！IntelliGuard研究组的一篇论文被国际学术会议 KSEM 2024 录用！🎉🎉🎉（硕士生崔晓澍为第一作者，本人为第二作者）
+- *2024.02:* 祝贺！
+- *2023.12:* 祝贺！我们班（计算机学院22级博士2班）荣获“北京市先进班集体”荣誉称号. 🎉🎉🎉
+- *2023.12:* 祝贺！我们班（计算机学院22级博士2班）荣获北京交通大学“研究生先进班集体”荣誉称号. 🎉🎉🎉
+- *2023.12:* 
+- I received the "Enterprise Scholarship" from Beijing Jiaotong University. 🎉
 - *2023.12:* I received the "Excellent Scholarship in Social Work" from Beijing Jiaotong University. 🎉
 - *2023.12:* I have been awarded the honorary title of "Excellent Graduate Student Cadre" by Beijing Jiaotong University. 🎉
 - *2022.12*: I have been awarded the honorary title of "Excellent Part-time Counselor" by Beijing Jiaotong University for the 2022-2023 academic year. 🎉
