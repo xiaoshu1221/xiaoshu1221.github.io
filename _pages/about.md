@@ -37,15 +37,8 @@ Currently, my research has centered on:
 # 🔥 新闻动态
 - *2024.05:* 祝贺！我与团队成员合作的一篇论文被国际学术会议 KSEM 2024（CCF-C）录用！🎉🎉🎉
 - *2024.02:* 一篇论文被国际学术期刊IEEE Network（JCR Q1/中科院二区，影响因子9.3）录用.
-- *2023.12:* 祝贺！我们班（计算机学院22级博士2班）荣获“北京市先进班集体”荣誉称号. 🎉🎉🎉
-- *2023.12:* 祝贺！我们班（计算机学院22级博士2班）荣获北京交通大学“研究生先进班集体”荣誉称号. 🎉🎉🎉
-- *2023.12:* 我荣获北京交通大学“企业专项奖学金”.
-- *2023.12:* 我荣获北京交通大学校级“社会工作优秀奖学金”.
-- *2023.12:* 我荣获北京交通大学校级“优秀研究生干部”荣誉称号.
 - *2023.09:* 一篇论文被国际学术期刊Applied Sciences（JCR Q2/中科院四区）录用.
-- *2022.12*: 我荣获北京交通大学2022-2023学年“优秀兼职辅导员”荣誉称号.
 - 2022.08: 祝贺！我们“六出祁山”战队在第30届DEFCON自动驾驶CTF全球挑战赛中荣获亚军！相关团队新闻链接：[[“六出祁山”战队@北京交通大学](https://scit.bjtu.edu.cn/cms/item/5040.html)], [[白泽战队@复旦大学](https://secsys.fudan.edu.cn/ff/46/c26973a458566/page.htm)]. 🎉🎉🎉 
-- *2022.06*: 我从[北京交通大学](https://bjtu.edu.cn/)毕业（软件工程专业），荣获电子信息硕士专业学位！
 - *2022.02:* 祝贺！我与团队成员参加国家重大网络安全试验测试活动，荣获鹏城实验室、中国网络空间安全人才教育论坛（“网教盟”）、中国网络空间新兴技术安全创新论坛（“新安盟”）感谢信！ 🎉 [[新闻链接](https://scit.bjtu.edu.cn/cms/item/4891.html)]
 - *2022.01:* 祝贺！我与团队成员参加国家重大活动安全测试，为相应信息系统加固及安全运行作出了贡献，荣获团体一等奖！ 🎉🎉🎉 [[新闻链接](https://scit.bjtu.edu.cn/cms/item/4906.html)]
 - 2021.08: 祝贺！我们“六出祁山”战队在第29届DEFCON自动驾驶CTF全球挑战赛中荣获亚军！相关团队新闻链接：[[“六出祁山”战队@北京交通大学](http://scit.bjtu.edu.cn/mobile/item/4790.html)], [[Cacti@纽约州立大学布法罗分校](https://engineering.buffalo.edu/computer-science-engineering/news-and-events/news.host.html/content/shared/engineering/home/articles/news-articles/2021/team-cacti-places-5th-at-baidu-autodriving-capture-the-flag-comp.detail.html)], [[Redbud@清华大学](https://netsec.ccert.edu.cn/eng/hacking/2021-08-06-autodrive-defcon)]！🎉🎉🎉 
