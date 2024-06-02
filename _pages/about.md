@@ -35,22 +35,23 @@ Currently, my research has centered on:
 
 <span class='anchor' id='News'></span>
 # 🔥 新闻动态
-- *2024.05:* 祝贺！IntelliGuard研究组的一篇论文被国际学术会议 KSEM 2024 录用！🎉🎉🎉（硕士生崔晓澍为第一作者，本人为第二作者）
-- *2024.02:* 祝贺！
+- *2024.05:* 祝贺！我与团队成员合作的一篇论文被国际学术会议 KSEM 2024 （CCF-C）录用！🎉🎉🎉
+- *2024.02:* 一篇论文被国际学术期刊IEEE Network（JCR Q1/中科院二区，影响因子9.3）录用.
 - *2023.12:* 祝贺！我们班（计算机学院22级博士2班）荣获“北京市先进班集体”荣誉称号. 🎉🎉🎉
 - *2023.12:* 祝贺！我们班（计算机学院22级博士2班）荣获北京交通大学“研究生先进班集体”荣誉称号. 🎉🎉🎉
-- *2023.12:* 
-- I received the "Enterprise Scholarship" from Beijing Jiaotong University. 🎉
-- *2023.12:* I received the "Excellent Scholarship in Social Work" from Beijing Jiaotong University. 🎉
-- *2023.12:* I have been awarded the honorary title of "Excellent Graduate Student Cadre" by Beijing Jiaotong University. 🎉
-- *2022.12*: I have been awarded the honorary title of "Excellent Part-time Counselor" by Beijing Jiaotong University for the 2022-2023 academic year. 🎉
-- 2022.08: Our team won the Global Runner-up🥈 in the DEFCON30 Autonomous Driving CTF Challenge. Checkout the news from some of the winning teams: [[Our Team@BJTU](https://scit.bjtu.edu.cn/cms/item/5040.html)], [[Whitezard@FUDAN](https://secsys.fudan.edu.cn/ff/46/c26973a458566/page.htm)]. Congratulations! 🎉🎉🎉 
-- *2022.06*: I obtained a Master's degree in Software Engineering from [Beijing Jiaotong University](https://bjtu.edu.cn/). 
-- *2022.02:* I received a letter of appreciation from the National Major Network Security Test and Assessment Activity with my team members. 🎉 [[link](https://scit.bjtu.edu.cn/cms/item/4891.html)]
-- *2022.01:* Our team won the first price🏅 in the 2022 Beijing Winter Olympics Vulnerability Discovery Competition. 🎉🎉🎉 [[link](https://scit.bjtu.edu.cn/cms/item/4906.html)]
-- 2021.08: Our team won the Global Runner-up🥈 in the DEFCON29 Autonomous Driving CTF Challenge. Checkout the news from some of the winning teams: [[Our Team@BJTU](http://scit.bjtu.edu.cn/mobile/item/4790.html)], [[Cacti@UB](https://engineering.buffalo.edu/computer-science-engineering/news-and-events/news.host.html/content/shared/engineering/home/articles/news-articles/2021/team-cacti-places-5th-at-baidu-autodriving-capture-the-flag-comp.detail.html)], [[Redbud@THU](https://netsec.ccert.edu.cn/eng/hacking/2021-08-06-autodrive-defcon)]. Congratulations! 🎉🎉🎉 
+- *2023.12:* 我荣获北京交通大学“企业专项奖学金”.
+- *2023.12:* 我荣获北京交通大学校级“社会工作优秀奖学金”.
+- *2023.12:* 我荣获北京交通大学校级“优秀研究生干部”荣誉称号.
+- *2023.09:* 一篇论文被国际学术期刊Applied Sciences（JCR Q2/中科院四区）录用.
+- *2022.12*: 我荣获北京交通大学2022-2023学年“优秀兼职辅导员”荣誉称号.
+- 2022.08: 祝贺！我们“六出祁山”战队在第30届DEFCON自动驾驶CTF全球挑战赛中荣获亚军！相关团队新闻链接：[[“六出祁山”战队@北京交通大学](https://scit.bjtu.edu.cn/cms/item/5040.html)], [[白泽战队@复旦大学](https://secsys.fudan.edu.cn/ff/46/c26973a458566/page.htm)]. 🎉🎉🎉 
+- *2022.06*: 我从[北京交通大学](https://bjtu.edu.cn/)毕业（软件工程专业），荣获电子信息硕士专业学位！
+- *2022.02:* 祝贺！我与团队成员参加国家重大网络安全试验测试活动，荣获鹏城实验室、中国网络空间安全人才教育论坛（“网教盟”）、中国网络空间新兴技术安全创新论坛（“新安盟”）感谢信！ 🎉 [[新闻链接](https://scit.bjtu.edu.cn/cms/item/4891.html)]
+- *2022.01:* 祝贺！我与团队成员参加国家重大活动安全测试，为相应信息系统加固及安全运行作出了贡献，荣获团体一等奖！ 🎉🎉🎉 [[新闻链接](https://scit.bjtu.edu.cn/cms/item/4906.html)]
+- 2021.08: 祝贺！我们“六出祁山”战队在第29届DEFCON自动驾驶CTF全球挑战赛中荣获亚军！相关团队新闻链接：[[“六出祁山”战队@北京交通大学](http://scit.bjtu.edu.cn/mobile/item/4790.html)], [[Cacti@纽约州立大学布法罗分校](https://engineering.buffalo.edu/computer-science-engineering/news-and-events/news.host.html/content/shared/engineering/home/articles/news-articles/2021/team-cacti-places-5th-at-baidu-autodriving-capture-the-flag-comp.detail.html)], [[Redbud@清华大学](https://netsec.ccert.edu.cn/eng/hacking/2021-08-06-autodrive-defcon)]！🎉🎉🎉 
 
 <span class='anchor' id='Publications'></span>
+
 # 📝 代表性成果
 
 1. **Yalun Wu**, Yingxiao Xiang, Endong Tong, Yuqi Ye, Zhibo Cui, Yunzhe Tian, Lejun Zhang, Jiqiang Liu, Zhen Han. Wenjia Niu. Improving the Robustness of Pedestrian Detection in Autonomous Driving with Generative Data Augmentation. IEEE Network, 2024 (early access). <font color="#E56701"><b>(JCR Q1/中科院二区, IF: 9.3)</b></font> 
