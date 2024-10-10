@@ -6,9 +6,9 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-title                    : "Yalun Wu"
+title                    : "Xiaoshu Cui"
 description              : ""
-repository               : "Allenpandas/Allenpandas.github.io"
+repository               : "xiaoshu1221/xiaoshu1221.github.io"
 google_scholar_stats_use_cdn : false
 
 # google analytics
@@ -21,14 +21,14 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 
 # Site Author
 author:
-  name             : "Yalun Wu"
+  name             : "Xiaoshu Cui"
   avatar           : "images/android-chrome-512x512.png"
-  bio              : "Ph.D. Student at Beijing Jiaotong University"
+  bio              : "B.S. Student at Beijing Jiaotong University"
   location         : "Beijing, China"
   employer         :
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=BF5dco0AAAAJ"
-  email            : "wuyalun1@bjtu.edu.cn"
+  email            : "cuixiaoshu@bjtu.edu.cn"
   researchgate     :  # e.g., "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -37,7 +37,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "Allenpandas" # e.g., "github username"
+  github           : "xiaoshu1221" # e.g., "github username"
   google_plus      :
   keybase          :
   instagram        :
