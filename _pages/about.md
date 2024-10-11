@@ -38,10 +38,12 @@ Currently, my research has centered on:
 
 # 📝 代表性成果
 
-1. **<u>Xiaoshu Cui</u>**, Yalun Wu, Yanfeng Gu, Qiong Li, Endong Tong, Jiqiang Liu, Wenjia Niu. Lurking in the Shadows: Imperceptible Shadow Black-Box Attacks against Lane Detection Models. International Conference on Knowledge Science, Engineering and Management (KSEM), 2 024. <font color="#E56701"><b>(KSEM'2024, CCF-C)</b></font> 
-2. Yalun Wu, Yanfeng Gu, Yuanwan Chen, **<u>Xiaoshu Cui</u>**, Qiong Li, Yingxiao Xiang, Endong Tong, Jianhua Li, Zhen Han, Jiqiang Liu. Camouflage Backdoor Attack against Pedestrian Detection. Applied Sciences, 2023, 13(23):12752. <font color="#E56701"><b>(JCR Q2/中科院四区)</b></font>
-3. Yuanwan Chen, Yalun Wu, **<u>Xiaoshu Cui</u>**, Qiong Li, Jiqiang Liu, Wenjia Niu. Reflective Adversarial Attacks against Pedestrian Detection Systems for Vehicles at Night. symmetry, 2024, 16(10):1262.  <font color="#E56701"><b>(JCR Q2/中科院三区)</b></font>
-4. Qiong Li, Yalun Wu, Yingqi Cai, **<u>Xiaoshu Cui</u>**, Yanfeng Gu, Yuanwan Chen, Endong Tong, Jiqiang Liu, Wenjia Niu. Caution: Pedestrian Ahead! Revealing Deceptive Threats to Pedestrian Detectors.  IEEE Consumer Electronics Magazine, in press, 2024. <font color="#E56701"><b>(JCR Q1/中科院四区)</b></font>
+1. **<u>Xiaoshu Cui</u>**, Yalun Wu, Yanfeng Gu, Qiong Li, Endong Tong, Jiqiang Liu, Wenjia Niu. Lurking in the Shadows: Imperceptible Shadow Black-Box Attacks against Lane Detection Models. International Conference on Knowledge Science, Engineering and Management (KSEM), 2024. <font color="#E56701"><b>(KSEM'2024, CCF-C)</b></font>
+2. Yuanwan Chen, Yalun Wu, **<u>Xiaoshu Cui</u>**, Qiong Li, Jiqiang Liu, Wenjia Niu. Reflective Adversarial Attacks against Pedestrian Detection Systems for Vehicles at Night. symmetry, 2024, 16(10):1262.  <font color="#E56701"><b>(中科院三区)</b></font>
+3. Qiong Li, Yalun Wu, Yingqi Cai, **<u>Xiaoshu Cui</u>**, Yanfeng Gu, Yuanwan Chen, Endong Tong, Jiqiang Liu, Wenjia Niu. Caution: Pedestrian Ahead! Revealing Deceptive Threats to Pedestrian Detectors.  IEEE Consumer Electronics Magazine, in press, 2024. <font color="#E56701"><b>(JCR Q1/中科院四区)</b></font>
+4. Qiong Li, Yalun Wu, Qihuan Li, **<u>Xiaoshu Cui</u>**, Xiaolin Chang, Peng Sun, Jiqiang Liu, Wenjia Niu. RetroreﬂectionBA: Leveraging Retroreﬂection as a Backdoor Attack Trigger for Fooling Pedestrian Detection Models. China Computer Federation Intelligent Vehicles Symposium (CCF CIVS), 2024. <font color="#E56701"><b>(CIVS'2024, EI)</b></font>
+5. Yalun Wu*, Yingxiao Xiang*, Thar Baker, Endong Tong, Ye Zhu, **<u>Xiaoshu Cui</u>**, Zhenguo Zhang, Zhen Han, Jiqiang Liu, Wenjia Niu. Collaborative Attack Sequence Generation Model Based on Multi-Agent Reinforcement Learning for Intelligent Traffic Signal System. International Journal of Intelligent Systems (IJIS), 2024. <font color="#E56701"><b>(中科院二区)</b></font>
+6. Yalun Wu, Yanfeng Gu, Yuanwan Chen, **<u>Xiaoshu Cui</u>**, Qiong Li, Yingxiao Xiang, Endong Tong, Jianhua Li, Zhen Han, Jiqiang Liu. Camouflage Backdoor Attack against Pedestrian Detection. Applied Sciences, 2023, 13(23):12752. <font color="#E56701"><b>(JCR Q2/中科院四区)</b></font>
    
 
 <span class='anchor' id='Patents'></span>
