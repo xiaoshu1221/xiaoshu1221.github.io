@@ -33,9 +33,8 @@ Currently, my research has centered on:
 
 📮: I am always looking for related colaboration. If you are interested to chat with me, feel free to drop me an <a href="mailto:cuixiaoshu@bjtu.edu.cn" target="_blank">email</a>.
 
-<span class='anchor' id='News'></span>
 
-
+<span class='anchor' id='Publications'></span>
 # 📝 代表性成果
 
 1. **<u>Xiaoshu Cui</u>**, Yalun Wu, Yanfeng Gu, Qiong Li, Endong Tong, Jiqiang Liu, Wenjia Niu. Lurking in the Shadows: Imperceptible Shadow Black-Box Attacks against Lane Detection Models. International Conference on Knowledge Science, Engineering and Management (KSEM), 2024. <font color="#E56701"><b>(KSEM'2024, CCF-C)</b></font>
@@ -54,9 +53,7 @@ Currently, my research has centered on:
 - 乔紫嫣, 陈渊婉, 刘朋娜, 古砚锋, **<u>崔晓澍</u>**, 吴亚伦, 李琼, 童恩栋, 牛温佳. 一种双向模型迁移的多主体联合强化学习方法. 中国专利, 2024. CN202311627677.3
 
 
-<span class='anchor' id='Honor-and-Reward'></span>
-
-
+<span class='anchor' id='Education'></span>
 # 📖 教育经历
 - *2023.09 - 至今:* 硕士, 北京交通大学, 计算机科学与技术学院.
 - *2019.09 - 2023.06:* 本科, 山东财经大学, 计算机科学与技术学院.
