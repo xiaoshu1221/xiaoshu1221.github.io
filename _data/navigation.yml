@@ -3,8 +3,8 @@ main:
   - title: "关于我"
     url: "#About-Me"
 
-  - title: "新闻动态"
-    url: "#News"
+  # - title: "新闻动态"
+  #   url: "#News"
 
   - title: "代表性成果"
     url: "#Publications"
@@ -12,8 +12,8 @@ main:
   - title: "发明专利"
     url: "#Patents"
 
-  - title: "荣誉与获奖"
-    url: "#Honor-and-Reward"
+  # - title: "荣誉与获奖"
+  #   url: "#Honor-and-Reward"
 
   - title: "教育经历"
     url: "#Education"
@@ -21,8 +21,8 @@ main:
   - title: "项目经历"
     url: "#Project"
 
-  - title: "英文简历 (English CV)"
-    url: "https://wuyalun.cn/"
+  # - title: "英文简历 (English CV)"
+  #   url: "https://wuyalun.cn/"
 
   # - title: "Invited Talks"
   #   url: "/#-invited-talks"
